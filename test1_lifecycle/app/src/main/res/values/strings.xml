@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test1_lifecycle</string>
+    <string name="lifecycle">LIFECYCLE</string>
+    <string name="btn_finish">结束程序</string>
+    <string name="open_secondActivity">Open SecondActivity</string>
+    <string name="open_thirdActivity">Open ThirdActivity</string>
+    <string name="second">这是第二个界面</string>
+    <string name="third">这是第三个界面</string>
+</resources>
